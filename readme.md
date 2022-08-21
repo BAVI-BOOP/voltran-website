@@ -22,8 +22,9 @@ parallax-website(folder)
 ```
 
 ## Expected Outcome
-
-<a href="https://bavi-boop.github.io/voltran-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
+<p align="center">
+<a href="https://bavi-boop.github.io/netflix-clone/"><img src="voltran.gif" alt="screenshot" ></a>
+</p>
 
 ## Live Website
 

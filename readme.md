@@ -1,7 +1,26 @@
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="hello.png" alt="screenshot"></a>
+</p>
+
+
+
 
 # Project : Voltran Website 
 
-## Description
+
+## Table of contents
+
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton](#project-skeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Steps To Project](#steps-to-project)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+
+## The challenge
 Project aims to create a responsive parallax website.
 
 ## Problem Statement
@@ -11,57 +30,66 @@ Project aims to create a responsive parallax website.
 ## Project Skeleton 
 
 ```
-parallax-website(folder)
+voltran-website(folder)
 
 |----README.md                   
 |----images      
      | photos...
 |----index.html  
 |----style.css   
-|----images
 ```
 
-## Expected Outcome
+## Screenshot
 <p align="center">
 <a href="https://bavi-boop.github.io/netflix-clone/"><img src="voltran.gif" alt="screenshot" ></a>
 </p>
 
-## Live Website
+## Links
 
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/voltran-website/">Live Website</a>
 <hr>
 
-### At the end of the project, following topics are to be covered;
 
-- HTML 
+### Built with
 
-- List Properties
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
-- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
-
-- CSS Setting height and width-CSS Outline-CSS Combinators
-
-
-### At the end of the project, I am able to;
-
-- improve coding skills within HTML & CSS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-
+- [Styled Components](https://styled-components.com/) - For styles
 	
+- HTML Forms-Input Types 
+
+- HTML Form Elements
+
+- CSS Colors-Border Properties
+
+- CSS Margins-Padding
+
+- CSS Properties for Texts-Font Families-Links
+
+
+-
+
 ## Notes
-<hr>
-<h3>Used in this project</h3>
 
-👉Flexbox, HTML tags, Comments, CSS styling, Positioning,etc.
+- You can use HTML,and CSS to complete this project.
+
+### Useful resources
+
+- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+- [Clarusway](https://clarusway.com/aws-devops/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCjMru99tYkggAXDKaHPXlmNHqGXxFtkPw_EeiIechV8YNa6bUd9DLkaAsJkEALw_wcB) - This Project was assigned by Clarusway.
 
 
-<hr>
-<h3>How to Use the Project</h3>
-<span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/tea-cozy-website'>My Docs</a>
-<br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
-<center> ⌛ Happy Coding  ✍ </center>
+
+
+## Author
+
+- Author - [Ahmet]
+
+<center> &#8987; Happy Coding  &#9997; </center>

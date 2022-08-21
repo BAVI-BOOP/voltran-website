@@ -41,7 +41,7 @@ voltran-website(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://bavi-boop.github.io/netflix-clone/"><img src="voltran.gif" alt="screenshot" ></a>
+<a href="https://bavi-boop.github.io/voltran-website/><img src="voltran.gif" alt="screenshot" ></a>
 </p>
 
 ## Links
